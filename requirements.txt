@@ -2,13 +2,13 @@ ipykernel
 pandas
 numpy
 matplotlib
-plotly
+# plotly
 seaborn
 scipy
 scikit-learn
 imblearn
 xgboost
-# catboost
+catboost
 pymongo
 from_root
 evidently==0.2.8
